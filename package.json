@@ -22,7 +22,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-konva": "^16.13.0-0",
-    "react-scripts": "^4.0.3",
+    "react-scripts": "^5.0.1",
     "readability-scores": "^1.0.8",
     "rehype-katex": "^3.0.0",
     "rehype-react": "^5.0.1",
